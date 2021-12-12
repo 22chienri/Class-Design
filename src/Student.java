@@ -20,7 +20,7 @@ public class Student {
         units = 60;
     }
 
-    // multi-argument contructor
+    // multi-argument constructor
     public Student(String name, double gpa, String year, int units) {
         this.name = name;
         this.gpa = gpa;
